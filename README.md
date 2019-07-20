@@ -1,2 +1,2 @@
 # gitskills
-dev add line
+dev add line and not simple
